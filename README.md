@@ -1,4 +1,4 @@
-# deep_learning
+# Deep Learning Foundation Nanodegree
 This repo contains all the assignments and projects I've done for the Udacity Nanodegree on Deep Learning
 
 For more info, visit the following site https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
